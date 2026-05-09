@@ -1,6 +1,5 @@
 # Brain-Tumor-MRI
 
-# Final Project Outline
 
 ## Project Title
 Automated Brain Tumor Classification from MRI Images Using Deep Learning
