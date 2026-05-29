@@ -43,3 +43,8 @@ as a decision-support tool in medical image analysis.
 
 ## Team Information
 This project is an individual project.
+
+## Acknowledgments
+-Some parts of the code were adapted from publicly available examples on Kaggle and GitHub.
+-I referred to several open-source implementations for preprocessing and model training.
+-I used code snippets from online tutorials as a reference for building the CNN model.
