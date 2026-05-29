@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Model files
+*.h5
+*.keras
+
+# Dataset (large MRI images)
+data/
+dataset/
+Brain_Tumor_MRI_Dataset/
+
+# Outputs
+results/
+outputs/
+logs/
+
+# Images generated during analysis
+gradcam/
+visualizations/
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
