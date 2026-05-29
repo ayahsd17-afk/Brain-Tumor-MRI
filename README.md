@@ -19,6 +19,14 @@ as a decision-support tool in medical image analysis.
 - Brain Tumor MRI Dataset (Kaggle)  
   https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
 
+
+## Dataset
+
+The dataset is too large to upload to GitHub.
+
+You can download it here:
+https://drive.google.com/drive/folders/1nmcEKtM7IRdZHTTvSIFRt5CFXjmNQTHR?usp=sharing
+
 ## Tools & Technologies
 - Python
 - NumPy
